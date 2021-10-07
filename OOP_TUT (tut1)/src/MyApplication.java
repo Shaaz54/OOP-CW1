@@ -12,7 +12,7 @@ public class MyApplication {
     public static void main(String [] args){
     
         Person p = new Person("shafraz");
-        p.setSurname("ramees");
+        p.setSurname("ramees ");
         p.setAge(20);
        p.displayName();
        System.out.println("surname :"+p.getSurname()+"\n"+"age is :"+p.getAge()); 
