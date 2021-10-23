@@ -1,5 +1,5 @@
 import java.io.*;
-
+//author aathi
 public class ARRAYlar
 {
 	public static void main (String []arg) throws IOException
